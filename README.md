@@ -1,1 +1,1 @@
-# -Laboratorio-IA---TECND
+# Laboratorio-IA-TECND
